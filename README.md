@@ -29,10 +29,11 @@
 
 <div align="center">
   <h3 align="center">Github & Baekjoon</h3>
-  <img src="https://ollyd-readme-stats.vercel.app/api?username=OllyDI&show_icons=true&border_color=2e4058&style=max-width100%"><br></br>
-  <img src="https://ollyd-readme-stats.vercel.app/api/top-langs/?username=OllyDI&layout=compact">
+  <img src="https://ollyd-readme-stats.vercel.app/api?username=OllyDI&style=max-width100%"><br></br>
+  <img src="https://ollyd-readme-stats.vercel.app/api/top-langs/?username=OllyDI&layout=compact&cache_seconds=86400">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choiseungho11">
+  
   
 </div>
 <br></br>
