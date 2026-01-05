@@ -24,6 +24,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OllyDI)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OllyDI)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">SEUNGHO'S GITHUB</h1>
 
 <div align="center">
@@ -32,6 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OllyDI&layout=compact">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choiseungho11">
+  
 </div>
 <br></br>
 <div align="center">
