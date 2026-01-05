@@ -24,12 +24,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 -->
+
+
 <h1 align="center">SEUNGHO'S GITHUB</h1>
 
 <div align="center">
   <h3 align="center">Github & Baekjoon</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=OllyDI&show_icons=true&border_color=2e4058&style=max-width100%"><br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OllyDI&layout=compact">
+  <img src="https://ollyd-readme-stats.vercel.app/api?username=OllyDI&show_icons=true&border_color=2e4058&style=max-width100%"><br></br>
+  <img src="https://ollyd-readme-stats.vercel.app/api/top-langs/?username=OllyDI&layout=compact">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choiseungho11">
   
